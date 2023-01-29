@@ -1,1 +1,1 @@
-// #include <gold/gold/token.h>
+#include <gold/gold/token.h>

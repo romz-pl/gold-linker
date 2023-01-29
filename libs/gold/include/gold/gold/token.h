@@ -23,6 +23,7 @@
 #ifndef GOLD_TOKEN_H
 #define GOLD_TOKEN_H
 
+#include <gold/gold/gold_assert.h>
 #include <cstdlib>
 
 namespace gold
