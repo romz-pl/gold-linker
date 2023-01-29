@@ -1,6 +1,8 @@
 set( LIB_NAME gold-gold )
 
 add_library( ${LIB_NAME} STATIC
+    Exit_status.cpp
+    gold_exit.cpp
     token.cpp
 )
 
