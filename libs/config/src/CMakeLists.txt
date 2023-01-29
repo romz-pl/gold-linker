@@ -1,6 +1,7 @@
 set( LIB_NAME gold-config )
 
 add_library( ${LIB_NAME} STATIC
+    ansidecl.cpp
     config.cpp
     system.cpp
 )
