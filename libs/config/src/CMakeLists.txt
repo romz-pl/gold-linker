@@ -2,6 +2,7 @@ set( LIB_NAME gold-config )
 
 add_library( ${LIB_NAME} STATIC
     config.cpp
+    system.cpp
 )
 
 
